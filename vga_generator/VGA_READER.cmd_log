@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/klaus/Dropbox/8. Semester/EMB3/vga_generator/VGA_READER.xst" -ofn "/home/klaus/Dropbox/8. Semester/EMB3/vga_generator/VGA_READER.syr" 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="890" delta="new" >"/home/klaus/Dropbox/8. Semester/EMB3/vga_generator/VGA_READER.vhd" Line 68: wait statement without UNTIL clause not supported for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"/home/klaus/Dropbox/8. Semester/EMB3/vga_generator/VGA_READER.vhd" Line 50: Assignment to <arg fmt="%s" index="1">ok</arg> ignored, since the identifier is never used
+</msg>
+
+</messages>
+
